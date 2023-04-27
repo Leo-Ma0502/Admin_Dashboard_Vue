@@ -4,16 +4,16 @@ Structure:
 FrameWork serves as the framework, and content of the page depends on the router direction.
 
 Clone the repository:
-git clone https://github.com/UOA-CS732-SE750-Students-2023/cs732-se75-assignment-Leo-Ma0502.git
-cd UOA-CS732-SE750-Students-2023/cs732-se75-assignment-Leo-Ma0502
+git clone https://github.com/Leo-Ma0502/Admin_Dashboard_Vue.git
 
 Start the backend:
+cd admin_dashboard_vue
 cd backend
 npm install
 npm run start
 
 Start the front end:
-cd vue-demo or cdd ../vue-demo
+cd vue-demo or cd ../vue-demo
 npm install
 npm run dev
 open http://127.0.0.1:5173/ in browser
